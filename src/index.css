@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+ background-color: white;
+ overflow-x: hidden;
+ scroll-behavior: auto;
+
+}
+h1,h2, p, a {
+  color: black;
+}
+
+
