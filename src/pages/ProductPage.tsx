@@ -13,7 +13,7 @@ function ProductPage() {
     }, []);
 
     const [product, setProduct] = useState<CartItem>();
-    const [quantity, setQuantity] = useState<number>(1);
+    const [quantity, ] = useState<number>(1);
     const [added, setAdded ] = useState<boolean>(false);
 
 

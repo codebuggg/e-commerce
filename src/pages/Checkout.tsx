@@ -1,7 +1,7 @@
 import React, {useEffect} from "react";
 import CartCard from "../components/common/CartCard";
 import { getCartItems } from "../utils/api";
-import { StateContext, useStateValue } from "../global";
+import { useStateValue } from "../global";
 
 
 function Checkout() {

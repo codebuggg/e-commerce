@@ -1,4 +1,3 @@
-import React, {useEffect} from "react";
 import { removeFromCart } from "../../utils/api";
 import { CartItem } from "../../../types/cart";
 
